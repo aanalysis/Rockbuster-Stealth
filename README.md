@@ -2,7 +2,7 @@
 
 As a student of the Data Analytics program at CareerFoundry, my task was to query the Rockbuster data set using SQL and answer key questions from managers.
 
-#### Company: Rockbuster Stealth LLC –movie rental company
+#### Company: Rockbuster Stealth LLC – movie rental company
 
 #### Objective: Launching online video rental services
 
