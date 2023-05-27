@@ -13,4 +13,4 @@ As a student of the Data Analytics program at CareerFoundry, my task was to quer
 * Excel  
 + Tableau Public
 
-#### Resources: [Presentation for the business managers](https://public.tableau.com/views/Exercise3_10_16807190077260/DataAnalysisProject?:language=en-US&:display_count=n&:origin=viz_share_link)
+##### Resources: [Presentation for the business managers](https://public.tableau.com/views/Exercise3_10_16807190077260/DataAnalysisProject?:language=en-US&:display_count=n&:origin=viz_share_link)
